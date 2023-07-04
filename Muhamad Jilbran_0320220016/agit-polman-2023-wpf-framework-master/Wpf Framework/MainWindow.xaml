@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Muhamad Jilbran&#xD;&#xA;" HorizontalAlignment="Left" Margin="153,136,0,0" VerticalAlignment="Top" FontSize="48"/>
+        <Label Content="Muhamad Jilbran&#xA;Wizdan Tsabit" HorizontalAlignment="Left" Margin="153,136,0,0" VerticalAlignment="Top" FontSize="48"/>
         <Button Content="Tekan Saya" HorizontalAlignment="Left" Margin="203,287,0,0" VerticalAlignment="Top" Click="Button_Click"/>
         <TextBox x:Name="txtNama" HorizontalAlignment="Left" Margin="313,289,0,0"  Width="216" Height="30"></TextBox>
     </Grid>

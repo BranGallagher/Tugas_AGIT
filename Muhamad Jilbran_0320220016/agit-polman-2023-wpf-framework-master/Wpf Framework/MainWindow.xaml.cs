@@ -29,7 +29,7 @@ namespace Wpf_Framework
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Nama = txtNama.Text;
-            MessageBox.Show("Saya Adalah " + Nama + " Dari prodi");
+            MessageBox.Show("Saya Adalah " + Nama + " Dari prodi MI");
         }
     }
 }

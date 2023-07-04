@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Downloads\\agit-polman-2023-wpf-framework-master\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\Wpf Framework.csproj": {}
+    "C:\\Users\\wizdan tsabit\\Documents\\Tugas_AGIT\\Muhamad Jilbran_0320220016\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\Wpf Framework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Downloads\\agit-polman-2023-wpf-framework-master\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\Wpf Framework.csproj": {
+    "C:\\Users\\wizdan tsabit\\Documents\\Tugas_AGIT\\Muhamad Jilbran_0320220016\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\Wpf Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Downloads\\agit-polman-2023-wpf-framework-master\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\Wpf Framework.csproj",
+        "projectUniqueName": "C:\\Users\\wizdan tsabit\\Documents\\Tugas_AGIT\\Muhamad Jilbran_0320220016\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\Wpf Framework.csproj",
         "projectName": "Wpf Framework",
-        "projectPath": "C:\\Users\\student\\Downloads\\agit-polman-2023-wpf-framework-master\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\Wpf Framework.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Downloads\\agit-polman-2023-wpf-framework-master\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\obj\\",
+        "projectPath": "C:\\Users\\wizdan tsabit\\Documents\\Tugas_AGIT\\Muhamad Jilbran_0320220016\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\Wpf Framework.csproj",
+        "packagesPath": "C:\\Users\\wizdan tsabit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wizdan tsabit\\Documents\\Tugas_AGIT\\Muhamad Jilbran_0320220016\\agit-polman-2023-wpf-framework-master\\Wpf Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wizdan tsabit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
